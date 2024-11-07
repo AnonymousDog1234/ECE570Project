@@ -2,6 +2,6 @@
 class: img_dataset
 name: lcdp_data.train
 input:
-    - /content/drive/MyDrive/ECE570_Project/dataset/input/*
+    - /content/drive/MyDrive/ECE570Project/dataset/input/*
 GT:
-    - /content/drive/MyDrive/ECE570_Project/dataset/gt/*
+    - /content/drive/MyDrive/ECE570Project/dataset/gt/*
